@@ -1,0 +1,13 @@
+.login-container {
+  /* background-color: gray; */
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.login {
+  border: 1px solid lightgray;
+  border-radius: 5%;
+  padding: 5%;
+}

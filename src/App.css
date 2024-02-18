@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  display: flex;
+  height: calc(100vh - 50px);
+}
+
+.others {
+  flex: 4;
+}
